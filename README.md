@@ -18,4 +18,4 @@ My Portfolio is a collection of diverse projects and worked by me, showcasing hi
 
 ## Getting Started
 
-Visit the portfolio website at [https://jha-aditya.onrender.com/](https://jha-aditya.onrender.com/) to start exploring.
+Visit the portfolio website at [https://jha-aditya.onrender.com/](https://jha-aditya-repo.onrender.com/) to start exploring.
